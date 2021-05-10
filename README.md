@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tyler D!
+- 👀 I’m interested in becoming a Web Developer but I still have so much to learn.
+- 🌱 I’m currently learning Javascript and Node JS
+- 📫 How to reach me: danh.tyler.cs@gmail.com
