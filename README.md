@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tyler D!
-- 👀 I’m interested in becoming a Web Developer but I still have so much to learn.
-- 🌱 I’m currently learning Javascript and Node JS
+- 👀 I’m currently a student at Cal State East Bay and am getting my degree in Computer Science!
+- 🌱 I’m currently learning C++!
 - 📫 How to reach me: danh.tyler.cs@gmail.com
